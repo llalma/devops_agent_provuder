@@ -1,4 +1,4 @@
-module github.com/llalma/devops_agent_provuder
+module github.com/llalma/devops_agent_provider
 
 go 1.25.12
 
